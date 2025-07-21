@@ -23,4 +23,4 @@ jobs:
           go install github.com/a-h/templ/cmd/templ@latest
           templ generate
       - name: Build
-        run: go build -v ./cmd/main.go
+        run: go mod download github.com/likexian/whois-parser && go mod tidy && go build -v ./cmd/main.go

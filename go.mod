@@ -1,8 +1,11 @@
-module github.com/berezovskyi/domain-monitor
+module github.com/SysOPSRO/domain-monitor
 
 go 1.23.0
 
 toolchain go1.24.3
+
+replace github.com/likexian/whois => github.com/sysopsro/whois v0.0.0-20250712214918-508cb2d96905
+
 
 require (
 	github.com/a-h/templ v0.3.887

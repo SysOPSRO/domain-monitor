@@ -3,7 +3,7 @@ package handlers
 import (
 	"log"
 
-	"github.com/berezovskyi/domain-monitor/service"
+	"github.com/sysopsro/domain-monitor/service"
 	"github.com/labstack/echo/v4"
 )
 

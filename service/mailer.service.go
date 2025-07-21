@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/berezovskyi/domain-monitor/configuration"
+	"github.com/sysopsro/domain-monitor/configuration"
 	"github.com/wneessen/go-mail"
 )
 

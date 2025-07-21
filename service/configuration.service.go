@@ -5,7 +5,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/berezovskyi/domain-monitor/configuration"
+	"github.com/sysopsro/domain-monitor/configuration"
 )
 
 type ConfigurationService struct {

@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/berezovskyi/domain-monitor/configuration"
+	"github.com/sysopsro/domain-monitor/configuration"
 	"github.com/labstack/echo/v4"
 )
 

@@ -2,8 +2,8 @@ package handlers
 
 import (
 	"github.com/a-h/templ"
-	"github.com/berezovskyi/domain-monitor/configuration"
-	"github.com/berezovskyi/domain-monitor/service"
+	"github.com/sysopsro/domain-monitor/configuration"
+	"github.com/sysopsro/domain-monitor/service"
 	"github.com/labstack/echo/v4"
 )
 

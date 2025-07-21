@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"github.com/berezovskyi/domain-monitor/views/layout"
+	"github.com/sysopsro/domain-monitor/views/layout"
 	"github.com/labstack/echo/v4"
 )
 

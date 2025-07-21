@@ -4,8 +4,8 @@ import (
 	"errors"
 
 	"github.com/a-h/templ"
-	"github.com/berezovskyi/domain-monitor/service"
-	"github.com/berezovskyi/domain-monitor/views/domains"
+	"github.com/sysopsro/domain-monitor/service"
+	"github.com/sysopsro/domain-monitor/views/domains"
 	"github.com/labstack/echo/v4"
 )
 

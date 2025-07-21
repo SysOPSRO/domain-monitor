@@ -7,9 +7,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/berezovskyi/domain-monitor/configuration"
-	"github.com/berezovskyi/domain-monitor/handlers"
-	"github.com/berezovskyi/domain-monitor/service"
+	"github.com/sysopsro/domain-monitor/configuration"
+	"github.com/sysopsro/domain-monitor/handlers"
+	"github.com/sysopsro/domain-monitor/service"
 	whoisparser "github.com/likexian/whois-parser"
 
 	"github.com/labstack/echo/v4"

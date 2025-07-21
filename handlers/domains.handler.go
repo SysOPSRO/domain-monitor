@@ -5,8 +5,8 @@ import (
 	"log"
 	"strings"
 
-	"github.com/berezovskyi/domain-monitor/configuration"
-	"github.com/berezovskyi/domain-monitor/views/domains"
+	"github.com/sysopsro/domain-monitor/configuration"
+	"github.com/sysopsro/domain-monitor/views/domains"
 	"github.com/labstack/echo/v4"
 )
 

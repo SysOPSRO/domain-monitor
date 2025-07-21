@@ -1,4 +1,4 @@
-module github.com/SysOPSRO/domain-monitor
+module github.com/sysopsro/domain-monitor
 
 go 1.23.0
 
@@ -6,21 +6,21 @@ toolchain go1.24.3
 
 replace github.com/likexian/whois => github.com/sysopsro/whois v0.0.0-20250712214918-508cb2d96905
 
-
 require (
 	github.com/a-h/templ v0.3.887
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b
 	github.com/labstack/echo/v4 v4.11.4
-	github.com/likexian/whois v1.15.1
-	github.com/likexian/whois-parser v1.24.11
+	github.com/likexian/whois v1.15.6
+	github.com/likexian/whois-parser v1.24.19
 	github.com/wneessen/go-mail v0.6.2
 	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
+	github.com/SysOPSRO/domain-monitor v0.0.0-20250721210123-5f8142dd5e37 // indirect
 	github.com/golang-jwt/jwt v3.2.2+incompatible // indirect
 	github.com/labstack/gommon v0.4.2 // indirect
-	github.com/likexian/gokit v0.25.13 // indirect
+	github.com/likexian/gokit v0.25.15 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect

@@ -19,6 +19,8 @@ RUN npx pnpm build
 # Compile the templ files
 RUN templ generate
 # Build the Go app
+RUN go mod download github.com/likexian/whois-parser
+RUN go mod tidy
 RUN go build -o /app/main ./cmd/main.go
 
 # Copy the frontend files to the app

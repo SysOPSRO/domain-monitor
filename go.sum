@@ -1,3 +1,5 @@
+github.com/SysOPSRO/domain-monitor v0.0.0-20250721210123-5f8142dd5e37 h1:jMuOHMnjj9WbBgwFqxCbLkH/7SYMvaCmRI/a62+XS9Y=
+github.com/SysOPSRO/domain-monitor v0.0.0-20250721210123-5f8142dd5e37/go.mod h1:1hKFc97o0PZMZJIEBved1r4K8HgjZru6XVwOyNCCcu4=
 github.com/a-h/templ v0.3.887 h1:QKk7kFzqWGfVwEm/phalqMmZncqnqTrmFEhXHozOXpk=
 github.com/a-h/templ v0.3.887/go.mod h1:oLBbZVQ6//Q6zpvSMPTuBK0F3qOtBdFBcGRspcT+VNQ=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
@@ -14,10 +16,12 @@ github.com/labstack/gommon v0.4.2 h1:F8qTUNXgG1+6WQmqoUWnz8WiEU60mXVVw0P4ht1WRA0
 github.com/labstack/gommon v0.4.2/go.mod h1:QlUFxVM+SNXhDL/Z7YhocGIBYOiwB0mXm1+1bAPHPyU=
 github.com/likexian/gokit v0.25.13 h1:p2Uw3+6fGG53CwdU2Dz0T6bOycdb2+bAFAa3ymwWVkM=
 github.com/likexian/gokit v0.25.13/go.mod h1:qQhEWFBEfqLCO3/vOEo2EDKd+EycekVtUK4tex+l2H4=
+github.com/likexian/gokit v0.25.15/go.mod h1:S2QisdsxLEHWeD/XI0QMVeggp+jbxYqUxMvSBil7MRg=
 github.com/likexian/whois v1.15.1 h1:6vTMI8n9s1eJdmcO4R9h1x99aQWIZZX1CD3am68gApU=
 github.com/likexian/whois v1.15.1/go.mod h1:/nxmQ6YXvLz+qTxC/QFtEJNAt0zLuRxJrKiWpBJX8X0=
 github.com/likexian/whois-parser v1.24.11 h1:U9hs+TX+eUnJTj1LPRc3HVHmuVRC0tKTGDhiTAqrCdA=
 github.com/likexian/whois-parser v1.24.11/go.mod h1:b6STMHHDaSKbd4PzGrP50wWE5NzeBUETa/hT9gI0G9I=
+github.com/likexian/whois-parser v1.24.20/go.mod h1:rAtaofg2luol09H+ogDzGIfcG8ig1NtM5R16uQADDz4=
 github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxecdEvA=
 github.com/mattn/go-colorable v0.1.13/go.mod h1:7S9/ev0klgBDR4GtXTXX8a3vIGJpMovkB8vQcUbaXHg=
 github.com/mattn/go-isatty v0.0.16/go.mod h1:kYGgaQfpe5nmfYZH+SKPsOc2e4SrIfOl2e/yFXSvRLM=
@@ -27,6 +31,8 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
 github.com/stretchr/testify v1.8.4/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
+github.com/sysopsro/whois v0.0.0-20250712214918-508cb2d96905 h1:dHqJJhmr4lvcWlRJmpH/8nW3TjQApeo+kpeHQF/7K6k=
+github.com/sysopsro/whois v0.0.0-20250712214918-508cb2d96905/go.mod h1:vx3kt3sZ4mx4XFgpaNp3GXQCZQIzAoyrUAkRtJwoM2I=
 github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6KllzawFIhcdPw=
 github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
 github.com/valyala/fasttemplate v1.2.2 h1:lxLXG0uE3Qnshl9QyaK6XJxMXlQZELvChBOCmQD0Loo=
